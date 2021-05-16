@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hritik
-- 👀 I’m interested in full stack web and app development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Game Development and Animation
-- 💞️ I’m looking to collaborate on Discord
+- 💞️ I’m looking to collaborate on App Development Projects
 - 📫 How to reach me Discord
 
 <!---
